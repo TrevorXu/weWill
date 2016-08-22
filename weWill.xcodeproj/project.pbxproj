@@ -99,13 +99,9 @@
 		B5BCBA521D6B9BFD007564A3 /* weWill */ = {
 			isa = PBXGroup;
 			children = (
-				B5BCBA531D6B9BFD007564A3 /* AppDelegate.swift */,
+				B5BCBA841D6B9C63007564A3 /* SupportFiles */,
 				B5BCBA551D6B9BFD007564A3 /* ViewController.swift */,
 				B5BCBA571D6B9BFD007564A3 /* Main.storyboard */,
-				B5BCBA5D1D6B9BFD007564A3 /* Assets.xcassets */,
-				B5BCBA5F1D6B9BFD007564A3 /* LaunchScreen.storyboard */,
-				B5BCBA621D6B9BFD007564A3 /* Info.plist */,
-				B5BCBA5A1D6B9BFD007564A3 /* weWill.xcdatamodeld */,
 			);
 			path = weWill;
 			sourceTree = "<group>";
@@ -126,6 +122,18 @@
 				B5BCBA781D6B9BFD007564A3 /* Info.plist */,
 			);
 			path = weWillUITests;
+			sourceTree = "<group>";
+		};
+		B5BCBA841D6B9C63007564A3 /* SupportFiles */ = {
+			isa = PBXGroup;
+			children = (
+				B5BCBA531D6B9BFD007564A3 /* AppDelegate.swift */,
+				B5BCBA5D1D6B9BFD007564A3 /* Assets.xcassets */,
+				B5BCBA5F1D6B9BFD007564A3 /* LaunchScreen.storyboard */,
+				B5BCBA621D6B9BFD007564A3 /* Info.plist */,
+				B5BCBA5A1D6B9BFD007564A3 /* weWill.xcdatamodeld */,
+			);
+			name = SupportFiles;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
